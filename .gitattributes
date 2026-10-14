@@ -14,3 +14,4 @@
 #   limitations under the License.
 
 * text=auto
+src/test/resources/** text eol=lf
